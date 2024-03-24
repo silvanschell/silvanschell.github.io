@@ -1,0 +1,4 @@
+- vorgeladen zu Gestapo
+- Tapezierermeister
+- Vater von Elli
+- Mann von Else

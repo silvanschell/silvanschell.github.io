@@ -1,0 +1,4 @@
+- Architekt
+	- Angestellter beim Staat
+- wohlhabend
+- (Paranoid)

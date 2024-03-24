@@ -1,0 +1,3 @@
+- ist zu seinem Heimatdorf gelaufen
+	- über Felder (nach der Sonne orientiert)
+- dort gestorben

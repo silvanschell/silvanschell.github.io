@@ -1,0 +1,7 @@
+- Anton Meier
+- Artist
+- wegen Trapez verhaftet (?)
+- schweigsamer Mensch
+- sehr "fremd" (man wird nicht schlau aus ihm)
+- wurde geweckt um Kunststücke vorzumachen (im KZ)
+- von Gebäude gestürzt, im Spital verstorben

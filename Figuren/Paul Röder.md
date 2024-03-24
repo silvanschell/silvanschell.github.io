@@ -1,0 +1,1 @@
+Alter Kollege von Georg. Georg hat dann den Kontakt zu ihm abgebaut als er Franz kennenlernte.
