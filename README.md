@@ -18,13 +18,13 @@ Flucht soll anderen Häftlingen Hoffnung geben
 
 ## Kapitel
 
-- [1. Kapitel](1.%20Kapitel.md)
-- [2. Kapitel](2.%20Kapitel.md)
-- [3. Kapitel](3.%20Kapitel.md)
-- [4. Kapitel](4.%20Kapitel.md)
-- [5. Kapitel](5.%20Kapitel.md)
-- [6. Kapitel](6.%20Kapitel.md)
-- [7. Kapitel](7.%20Kapitel.md)
+- [1. Kapitel](1_Kapitel.md)
+- [2. Kapitel](2_Kapitel.md)
+- [3. Kapitel](3_Kapitel.md)
+- [4. Kapitel](4_Kapitel.md)
+- [5. Kapitel](5_Kapitel.md)
+- [6. Kapitel](6_Kapitel.md)
+- [7. Kapitel](7_Kapitel.md)
 
 
 ## Personen
@@ -46,9 +46,9 @@ Flucht soll anderen Häftlingen Hoffnung geben
 
 ### Andere Personen
 
-- [Alfons Mettenheimer](Figuren/Alfons%20Mettenheimer.md)
-- [Ernst der Schäfer](Figuren/Ernst%20der%20Schäfer.md)
-- [Paul Röder](Figuren/Paul%20Röder.md)
-- [Peter Wurz](Figuren/Peter%20Wurz.md)
+- [Alfons Mettenheimer](Figuren/Alfons_Mettenheimer.md)
+- [Ernst der Schäfer](Figuren/Ernst_der_Schäfer.md)
+- [Paul Röder](Figuren/Paul_Röder.md)
+- [Peter Wurz](Figuren/Peter_Wurz.md)
 - [Sauer](Figuren/Sauer.md)
 - [Schulz](Figuren/Schulz.md)
